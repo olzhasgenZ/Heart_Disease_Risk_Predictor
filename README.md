@@ -102,7 +102,7 @@ Contact
 For questions, suggestions, or feedback, please:
 
 Open an issue on GitHub.
-Contact me at your.email@example.com.
+Contact me at olzhassar08@gmail.com.
 
 Acknowledgments
 
